@@ -1,0 +1,7 @@
+-- // Jarusploits v1.0
+
+if game.PlaceId == 6229116934 then
+    pcall(function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Hoopz2191/Jarusploits/main/Jarusploits%20Hoopz"))()
+    end)
+end
